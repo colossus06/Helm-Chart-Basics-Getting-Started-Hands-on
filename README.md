@@ -55,6 +55,7 @@ kubectl expose deploy nginx --port 80 --type NodePort --dry-run=client -o yaml >
 
 ![image](https://user-images.githubusercontent.com/96833570/216051689-2c1edefa-9c71-460f-8731-c91d0a6c2a40.png)
 
+
 ## Dispaly info to the user
 
 Add the following to the NOTES.txt file. 
